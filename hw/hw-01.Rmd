@@ -45,7 +45,19 @@ This assignment is a review of multiple linear regression. The goal is that by t
   
     **a.** Identify the response and explanatory variable(s).
     
+    **Response - ** the number of recorded cricket chirps per minute
+    
+    **Explanatory - ** the recorded temperature during that time
+    
     **b.** Write the assumptions for linear regression in the context of the problem. 
+
+    **L - ** We assume that there is a linear relationship between the temperature and the number of cricket chirps per minute.
+    
+    **I - ** We assume that the number of chirps is indepenedent. This can be assured by randomly sampling location.
+    
+    **N - ** We assume the distribution of cricket chirps follows a normal distribution at any temperature.
+    
+    **E - ** We assume the variances of cricket chirps are roughly equal across all temperatures.
 
 2. For each of over 27,000 overnight permits for the Boundary Waters Canoe area, the zip code for the group leader has been translated to the distance traveled and socioeconomic data. Thus, for each zip code we can model the number of trips made as a function of distance traveled and various socioeconomic measures. ^[from Sec. 1.8.1, Ex 2]
 
