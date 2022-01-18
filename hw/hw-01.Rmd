@@ -113,7 +113,7 @@ To submit your assignment:
 
 - Go to http://www.gradescope.com and click *Log in* in the top right corner. 
 
-- Click *School Credentials* `r emo::ji("arrow_right")` *Duke NetID* and log in using your NetID credentials.
+- Click *School Credentials*  *Duke NetID* and log in using your NetID credentials.
 
 - Click on your *STA 310* course. 
 
